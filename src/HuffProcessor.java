@@ -8,6 +8,8 @@
  * and including debug and bits read/written information
  * 
  * @author Owen Astrachan
+ * 
+ * Matthew Cone mcc67 & Ben Burnett bcb44
  */
 
 public class HuffProcessor {
